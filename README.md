@@ -1,5 +1,5 @@
 # 💻 Programación 1
-**Tecnicatura Universitaria en Programación**
+**Tecnicatura Universitaria en Programación**  
 Universidad Tecnológica Nacional
 
 # 👨🏻‍💻 Estudiante
@@ -7,4 +7,4 @@ Universidad Tecnológica Nacional
 * **Comisión**: M2025-14
 
 # 📁 Descripción del Repositorio
-Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de Programación 1
+Este repositorio almacena todos los trabajos prácticos realizados durante la cursada de Programación 1
